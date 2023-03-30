@@ -16,13 +16,13 @@
 <picture> <img align="left" valign="center" src="https://github.com/Akshaytomar893/Akshaytomar893/blob/main/working.gif" width = 350px ></picture>
 <br>
 
-<ul align="right">
+<ul align="right" float="right">
     <li>
         :man_technologist: I am currently working as **Software Developer** at **Veersa Technologies Pvt. Ltd.**
     </li> <li>
-        :man_technologist: I am currently working as **Software Developer** at **Veersa Technologies Pvt. Ltd.**
+        :man_technologist: I am currently workin**Veersa Technologies Pvt. Ltd.**
     </li> <li>
-        :man_technologist: I am currently working as **Software Developer** at **Veersa Technologies Pvt. Ltd.**
+        :man_technologist: I am currently working as  Pvt. Ltd.**
     </li> <li>
         :man_technologist: I am currently working as **Software Developer** at **Veersa Technologies Pvt. Ltd.**
     </li>
