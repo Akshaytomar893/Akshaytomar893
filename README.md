@@ -14,7 +14,7 @@
 ## <picture><img src = "https://github.com/Akshaytomar893/Akshaytomar893/blob/main/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" valign="center" src="https://github.com/Akshaytomar893/Akshaytomar893/blob/main/working.gif" width = 350px ></picture>
-<br>
+<br/>
     
 - :man_technologist: I am currently working as **Software Developer** at **Veersa Technologies Pvt. Ltd.**
 
@@ -28,11 +28,13 @@
 - :scroll: Current Open to work, here is my <a href="#"> resume</a>
 
 
-<br/>
+<br/><br/>
 
 ## <picture><img src = "https://github.com/Akshaytomar893/Akshaytomar893/blob/main/skills1.gif" width = 40px></picture> **Skills**
+
 <picture> <img align="left" valign="center" src="https://github.com/Akshaytomar893/Akshaytomar893/blob/main/skills.gif" width = 350px ></picture>
-<br><br>
+<br/><br/>
+
 
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -49,5 +51,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
+
+<br/><br/>
+
+## <picture><img src = "https://github.com/Akshaytomar893/Akshaytomar893/blob/main/stats.gif" width = 40px></picture> **Github Stats**
 
 
