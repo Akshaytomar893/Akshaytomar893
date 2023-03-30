@@ -26,4 +26,4 @@
 
 <br/>
 
-## <picture><img src = "[https://github.com/Akshaytomar893/Akshaytomar893/blob/main/about_me.gif](https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47h832f320zn5jexq44xhxrssbpb78xm04b264ibbe&rid=giphy.gif&ct=g)" width = 50px></picture> **Skills**
+## <picture><img src = "[https://github.com/Akshaytomar893/Akshaytomar893/blob/main/about_me.gif](https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47h832f320zn5jexq44xhxrssbpb78xm04b264ibbe&rid=giphy.gif" width = 50px></picture> **Skills**
