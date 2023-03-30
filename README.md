@@ -1,5 +1,7 @@
 
-<div float="left" align="center">
+<div float="left" >
+    <p>
     <img src="https://github.com/Akshaytomar893/Akshaytomar893/blob/main/typing_animmation.gif" width="270"  />
+    </p>
     <h1 style="color:white">Hello World</h1>
 </div>
