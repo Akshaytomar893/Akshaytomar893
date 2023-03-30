@@ -13,11 +13,22 @@
 
 ## <picture><img src = "https://github.com/Akshaytomar893/Akshaytomar893/blob/main/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" valign="center" src="https://github.com/Akshaytomar893/Akshaytomar893/blob/main/working.gif" width = 350px ></picture>
+<picture> <img align="left" valign="center" src="https://github.com/Akshaytomar893/Akshaytomar893/blob/main/working.gif" width = 350px ></picture>
 <br>
 
-
-- :man_technologist: I am currently working as **Software Developer** at **Veersa Technologies Pvt. Ltd.**
+<ul align="right">
+    <li>
+        :man_technologist: I am currently working as **Software Developer** at **Veersa Technologies Pvt. Ltd.**
+    </li> <li>
+        :man_technologist: I am currently working as **Software Developer** at **Veersa Technologies Pvt. Ltd.**
+    </li> <li>
+        :man_technologist: I am currently working as **Software Developer** at **Veersa Technologies Pvt. Ltd.**
+    </li> <li>
+        :man_technologist: I am currently working as **Software Developer** at **Veersa Technologies Pvt. Ltd.**
+    </li>
+</ul>
+    
+- 
 
 - 🔭 I like **Web Development, Problem Solving and Python Programming**
 
