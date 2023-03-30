@@ -12,7 +12,7 @@
 <br>
 ## 🙋‍♂️ About Me
 
-- :man_technologist: I like **Web Development, Problem Solving and Python Programming**
+- :man_technologist: I am currently working as **Software Developer** at **Veersa Technologies Pvt. Ltd.**
 
 - 🔭 I like **Web Development, Problem Solving and Python Programming**
 
