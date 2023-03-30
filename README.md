@@ -13,11 +13,9 @@
 
 ## <picture><img src = "https://github.com/Akshaytomar893/Akshaytomar893/blob/main/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="left" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px ></picture>
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px ></picture>
 <br>
 
-<div float="right">
-    <div float="right">
 
 - :man_technologist: I am currently working as **Software Developer** at **Veersa Technologies Pvt. Ltd.**
 
@@ -29,9 +27,7 @@
 
 - 📫 How to reach me **akshaytomar891@gmial.com**
 - :scroll: Current Open to work, here is my <a href="#"> resume</a>
-    </div>
-    
-   </div>
+
 
 <br/>
 
