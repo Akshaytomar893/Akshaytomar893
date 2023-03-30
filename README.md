@@ -34,5 +34,4 @@
 <picture> <img align="left" valign="center" src="https://github.com/Akshaytomar893/Akshaytomar893/blob/main/skills.gif" width = 350px ></picture>
 <br><br>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)]
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)]
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
