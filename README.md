@@ -9,5 +9,18 @@
         </td>
     </tr>
 </table>
+<br>
+## 🙋‍♂️ About Me
+- |:man_technologist:| I like **Web Development, Problem Solving and Python Programming**
+
+- 🔭 I like **Web Development, Problem Solving and Python Programming**
+
+- 🌱 I’m currently learning **NodeJS**
+
+- 👯 I’m looking to collaborate on **React Frontend Projects**
+
+- 📫 How to reach me **akshaytomar891@gmial.com**
+
+
 
     
