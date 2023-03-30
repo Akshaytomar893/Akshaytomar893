@@ -68,8 +68,8 @@
 </div>
 
 <div align="center">
-![Snake animation](https://github.com/Akshaytomar893/Akshaytomar893/blob/output/github-contribution-grid-snake.svg)
-    </div>
+    <img src="https://github.com/Akshaytomar893/Akshaytomar893/blob/output/github-contribution-grid-snake.svg"/>
+</div>
     
 
 
