@@ -16,6 +16,7 @@
 <picture> <img align="left" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 <br>
 
+<div float="right">
 
 - :man_technologist: I am currently working as **Software Developer** at **Veersa Technologies Pvt. Ltd.**
 
@@ -27,6 +28,8 @@
 
 - 📫 How to reach me **akshaytomar891@gmial.com**
 - :scroll: Current Open to work, here is my <a href="#"> resume</a>
+    
+   </di>
 
 <br/>
 
