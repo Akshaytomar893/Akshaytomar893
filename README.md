@@ -5,7 +5,7 @@
         </td>
         <td>
             <h1 style="color:white">Hello World</h1>
-            <p>sdfgdwiyfhgwsdb</p>
+            <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=A3CBF7&vCenter=true&width=435&lines=I+am+a+Software+Engineer;I+am+a+Frontend+Developer;I+am+a+Programmer" alt="Typing SVG" /></a>
         </td>
     </tr>
 </table>
