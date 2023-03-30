@@ -11,7 +11,8 @@
 </table>
 <br>
 ## 🙋‍♂️ About Me
-- |:man_technologist:| I like **Web Development, Problem Solving and Python Programming**
+
+- :man_technologist: I like **Web Development, Problem Solving and Python Programming**
 
 - 🔭 I like **Web Development, Problem Solving and Python Programming**
 
