@@ -15,20 +15,8 @@
 
 <picture> <img align="left" valign="center" src="https://github.com/Akshaytomar893/Akshaytomar893/blob/main/working.gif" width = 350px ></picture>
 <br>
-
-<ul align="right" float="right">
-    <li>
-        :man_technologist: I am currently working as **Software Developer** at **Veersa Technologies Pvt. Ltd.**
-    </li> <li>
-        :man_technologist: I am currently workin**Veersa Technologies Pvt. Ltd.**
-    </li> <li>
-        :man_technologist: I am currently working as  Pvt. Ltd.**
-    </li> <li>
-        :man_technologist: I am currently working as **Software Developer** at **Veersa Technologies Pvt. Ltd.**
-    </li>
-</ul>
     
-- 
+- :man_technologist: I am currently working as **Software Developer** at **Veersa Technologies Pvt. Ltd.**
 
 - 🔭 I like **Web Development, Problem Solving and Python Programming**
 
@@ -44,5 +32,8 @@
 
 ## <picture><img src = "https://github.com/Akshaytomar893/Akshaytomar893/blob/main/skills1.gif" width = 40px></picture> **Skills**
 <picture> <img align="left" valign="center" src="https://github.com/Akshaytomar893/Akshaytomar893/blob/main/skills.gif" width = 350px ></picture>
-<br/>
+<br><br>
+<div float="right">
+    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+</div>
 
