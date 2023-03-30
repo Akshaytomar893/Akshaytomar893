@@ -9,7 +9,7 @@
         </td>
     </tr>
 </table>
-<br>
+<br/>
 
 ## <picture><img src = "https://github.com/Akshaytomar893/Akshaytomar893/blob/main/about_me.gif" width = 50px></picture> **About me**
 
@@ -23,3 +23,7 @@
 
 - 📫 How to reach me **akshaytomar891@gmial.com**
 - :scroll: Current Open to work, here is my <a href="#"> resume</a>
+
+<br/>
+
+## <picture><img src = "[https://github.com/Akshaytomar893/Akshaytomar893/blob/main/about_me.gif](https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47h832f320zn5jexq44xhxrssbpb78xm04b264ibbe&rid=giphy.gif&ct=g)" width = 50px></picture> **Skills**
