@@ -22,7 +22,4 @@
 - 👯 I’m looking to collaborate on **React Frontend Projects**
 
 - 📫 How to reach me **akshaytomar891@gmial.com**
-
-
-
-    
+- :scroll: Current Open to work, here is my <a href="#"> resume</a>
