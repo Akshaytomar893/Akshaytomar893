@@ -11,7 +11,7 @@
 </table>
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/Akshaytomar893/Akshaytomar893/blob/main/about_me.gif" width = 50px></picture> **About me**
 
 - :man_technologist: I am currently working as **Software Developer** at **Veersa Technologies Pvt. Ltd.**
 
