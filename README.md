@@ -16,8 +16,8 @@
 <picture> <img align="left" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px ></picture>
 <br>
 
-<div align="left">
-    <div align="right">
+<div float="right">
+    <div float="right">
 
 - :man_technologist: I am currently working as **Software Developer** at **Veersa Technologies Pvt. Ltd.**
 
