@@ -33,6 +33,8 @@
 ## <picture><img src = "https://github.com/Akshaytomar893/Akshaytomar893/blob/main/skills1.gif" width = 40px></picture> **Skills**
 <picture> <img align="left" valign="center" src="https://github.com/Akshaytomar893/Akshaytomar893/blob/main/skills.gif" width = 350px ></picture>
 <br><br>
+![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+
 <div float="right">
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
 </div>
