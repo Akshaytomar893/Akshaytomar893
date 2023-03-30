@@ -31,4 +31,4 @@
 
 <br/>
 
-## <picture><img src = "https://github.com/Akshaytomar893/Akshaytomar893/blob/main/skills.gif" width = 50px></picture> **Skills**
+## <picture><img src = "https://github.com/Akshaytomar893/Akshaytomar893/blob/main/skills1.gif" width = 50px></picture> **Skills**
