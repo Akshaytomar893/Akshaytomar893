@@ -32,6 +32,6 @@
 <br/>
 
 ## <picture><img src = "https://github.com/Akshaytomar893/Akshaytomar893/blob/main/skills1.gif" width = 40px></picture> **Skills**
-<picture> <img align="left" valign="center" src="https://github.com/Akshaytomar893/Akshaytomar893/blob/main/skills1.gif" width = 250px ></picture>
+<picture> <img align="left" valign="center" src="https://github.com/Akshaytomar893/Akshaytomar893/blob/main/skills.gif" width = 250px ></picture>
 <br/>
 
