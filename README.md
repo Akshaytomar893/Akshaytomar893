@@ -17,6 +17,7 @@
 <br>
 
 <div align="right">
+    <div align="left">
 
 - :man_technologist: I am currently working as **Software Developer** at **Veersa Technologies Pvt. Ltd.**
 
@@ -28,8 +29,9 @@
 
 - 📫 How to reach me **akshaytomar891@gmial.com**
 - :scroll: Current Open to work, here is my <a href="#"> resume</a>
+    </div>
     
-   </di>
+   </div>
 
 <br/>
 
