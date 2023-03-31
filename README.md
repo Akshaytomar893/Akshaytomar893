@@ -62,12 +62,14 @@
 
 
     <img src="https://komarev.com/ghpvc/?username=Akshaytomar893"/>
+    
     <img src="https://img.shields.io/github/followers/Akshaytomar893?label=Followers&style=social" alt="GitHub Badge"/>
+    
     
   <img src="https://github-readme-stats.vercel.app/api?username=Akshaytomar893&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshaytomar893&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Akshaytomar893"/>
       <img alt="Akshay's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Akshaytomar893&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D"/ >
-    <img src="https://komarev.com/ghpvc/?username=Akshaytomar893"/>
+    
 
 </div>
 
