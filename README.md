@@ -24,7 +24,7 @@
 
 - 👯 I’m looking to collaborate on **React Frontend Projects**
 
-- 📫 How to reach me **akshaytomar891@gmial.com**
+- 📫 How to reach me **akshaytomar891@gmail.com**
 - :scroll: Current Open to work, here is my <a href="#"> resume</a>
 
 
