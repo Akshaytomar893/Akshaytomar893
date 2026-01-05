@@ -68,15 +68,12 @@
 
 <div align="center">
 
-<img
-  src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api.svg?username=Akshaytomar893&show_icons=true&theme=tokyonight&hide_border=true"
-/>
-
-<img
-  src="https://streak-stats.demolab.com?user=Akshaytomar893&theme=tokyonight&hide_border=true"
-/>
+<img src="assets/profile-details.svg" />
+<img src="assets/stats.svg" />
+<img src="assets/most-commit-language.svg" />
 
 </div>
+
 
 
 
