@@ -16,6 +16,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
+          persist-credentials: true
           fetch-depth: 0
 
       - name: Generate summary cards
@@ -25,8 +26,10 @@ jobs:
         with:
           USERNAME: Akshaytomar893
 
-      - name: Commit & push
+      - name: Commit and push stats
         uses: EndBug/add-and-commit@v9
         with:
+          author_name: github-actions
+          author_email: github-actions@github.com
           message: "chore: update GitHub stats"
           add: "profile-summary-card-output"
