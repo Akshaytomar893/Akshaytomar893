@@ -69,16 +69,15 @@
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Akshaytomar893&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Akshaytomar893&show_icons=true&theme=tokyonight&hide_border=true"
 />
 
-<br/>
-
 <img
-  src="https://github-readme-streak-stats.herokuapp.com?user=Akshaytomar893&theme=tokyonight&hide_border=true&cache_seconds=86400"
+  src="https://github-readme-streak-stats.herokuapp.com?user=Akshaytomar893&theme=tokyonight&hide_border=true"
 />
 
 </div>
+
 
 
 ---
