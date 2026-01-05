@@ -1,28 +1,32 @@
-name: Generate GitHub Stats
+name: GitHub Profile Stats
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
   workflow_dispatch:
+  schedule:
+    - cron: "0 1 * * *"
+
+permissions:
+  contents: write
 
 jobs:
-  stats:
+  build:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
 
-      - name: Generate stats
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: Akshaytomar893
-          THEME: tokyo-night
 
-      - name: Move files
-        run: |
-          mkdir -p assets
-          mv profile-summary-card-output/* assets/
-
-      - name: Commit
+      - name: Commit & push
         uses: EndBug/add-and-commit@v9
         with:
-          message: "Update GitHub stats"
+          message: "chore: update GitHub stats"
+          add: "profile-summary-card-output"
