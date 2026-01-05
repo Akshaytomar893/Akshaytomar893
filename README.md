@@ -64,15 +64,16 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="assets/profile-details.svg" />
-<img src="assets/stats.svg" />
-<img src="assets/most-commit-language.svg" />
+<img
+  src="https://streak-stats.demolab.com?user=Akshaytomar893&theme=tokyonight&hide_border=true"
+/>
 
 </div>
+
 
 
 
