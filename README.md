@@ -69,11 +69,11 @@
 <div align="center">
 
 <img
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Akshaytomar893&show_icons=true&theme=tokyonight&hide_border=true"
+  src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api.svg?username=Akshaytomar893&show_icons=true&theme=tokyonight&hide_border=true"
 />
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com?user=Akshaytomar893&theme=tokyonight&hide_border=true"
+  src="https://streak-stats.demolab.com?user=Akshaytomar893&theme=tokyonight&hide_border=true"
 />
 
 </div>
