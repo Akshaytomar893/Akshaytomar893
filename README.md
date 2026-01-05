@@ -67,8 +67,9 @@
 ## 📊 GitHub Activity
 
 <div align="center">
-
-<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshaytomar893&theme=tokyonight&hide_border=true" />
+<img
+  src="https://github-readme-streak-stats.herokuapp.com?user=Akshaytomar893&theme=tokyonight&hide_border=true&cache_seconds=86400"
+/>
 
 
 </div>
