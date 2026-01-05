@@ -1,13 +1,15 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
 
+<h1 style="font-size:42px; margin-bottom:5px;">👋 Hi, I'm Akshay Tomar</h1>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=7A7ADB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Akshay+Tomar;Software+Engineer;Frontend+%26+React+Native+Developer">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Akshay+Tomar;Software+Engineer;Frontend+%26+React+Native+Developer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7A7ADB&center=true&vCenter=true&width=650&lines=Software+Engineer;Frontend+%26+React+Native+Developer;Building+Scalable+User+Interfaces">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Software+Engineer;Frontend+%26+React+Native+Developer;Building+Scalable+User+Interfaces">
   <img src="https://readme-typing-svg.herokuapp.com" />
 </picture>
 
-<br/>
+<br/><br/>
 
 <img src="https://github.com/Akshaytomar893/Akshaytomar893/blob/main/working.gif" width="280"/>
 
@@ -19,8 +21,8 @@
 
 - 💼 Software Developer at **Veersa Technologies Pvt. Ltd.**
 - ⚛️ Frontend & Mobile — **React | React Native**
-- 🧠 Problem Solving & DSA focused
-- 🌱 Learning **Node.js**
+- 🧠 Strong in **DSA & real-world problem solving**
+- 🌱 Currently learning **Node.js**
 - 📫 **akshaytomar891@gmail.com**
 - 📄 Open to opportunities
 
@@ -62,37 +64,40 @@
 
 ---
 
-## 📊 GitHub Stats (Stable & Working)
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=Akshaytomar893&show_icons=true&theme=tokyonight&hide_border=true" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Akshaytomar893&show_icons=true&theme=tokyonight&hide_border=true"
+/>
 
-<img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=Akshaytomar893&theme=tokyonight&hide_border=true" />
+<img
+  src="https://github-readme-streak-stats.herokuapp.com?user=Akshaytomar893&theme=tokyonight&hide_border=true"
+/>
 
 <br/>
 
-<img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaytomar893&layout=compact&theme=tokyonight&hide_border=true" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaytomar893&layout=compact&theme=tokyonight&hide_border=true"
+/>
 
 </div>
 
 ---
 
-## 🎯 Coding Profiles (FIXED)
+## 🎯 Coding Profile
 
 <div align="center">
 
 ### LeetCode
 <img src="https://leetcode.card.workers.dev/Akshaytomar893?theme=dark&font=baloo&extension=activity" />
 
-### GeeksforGeeks
-<img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=akshaytomar893" />
-
 </div>
 
 ---
 
-## 🐍 Contribution Graph (WORKING)
+## 🐍 Contribution Graph
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Akshaytomar893/Akshaytomar893/output/github-contribution-grid-snake.svg" />
@@ -108,12 +113,12 @@
 <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:akshaytomar891@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/akshaytomar893">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="mailto:akshaytomar891@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -121,5 +126,5 @@
 ---
 
 <div align="center">
-⭐ Clean code | Consistent growth | Real-world impact
+⭐ Clean Code • Scalable UI • Continuous Growth
 </div>
