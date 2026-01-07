@@ -70,6 +70,8 @@
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshaytomar893&theme=tokyonight"
 />
+  <br/>
+  <br/>
 <img
   src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akshaytomar893&theme=tokyonight"
 />
