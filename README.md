@@ -68,7 +68,10 @@
 
 <div align="center">
 <img
-  src="https://github-readme-streak-stats.herokuapp.com?user=Akshaytomar893&theme=tokyonight&hide_border=true&cache_seconds=86400"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshaytomar893&theme=tokyonight"
+/>
+<img
+  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akshaytomar893&theme=tokyonight"
 />
 
 
