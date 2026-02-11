@@ -1,7 +1,7 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
 
-<h1 style="font-size:42px; margin-bottom:5px;">👋 Hi, I'm Akshay Tomar</h1>
+<h1 style="font-size:42px; margin-bottom:5px;">👋 Hi, I'm Akshay</h1>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7A7ADB&center=true&vCenter=true&width=650&lines=Software+Engineer;Frontend+%26+React+Native+Developer;Building+Scalable+User+Interfaces">
